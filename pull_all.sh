@@ -5,7 +5,7 @@ cd ~/Tools/save-files
 git pull
 
 # update knights of pen and paper
-cp knights_of_pen_and_paper/data.kopp ~/.steam/steam/steamapps/common/Knights\ of\ Pen\ and\ Paper/knightspp_Data/data.kopp
+cp knights_of_pen_and_paper/files/data.kopp ~/.steam/steam/steamapps/common/Knights\ of\ Pen\ and\ Paper/knightspp_Data/data.kopp
 
 # update FTL
-cp faster_than_light/* ~/.local/share/FasterThanLight/
+cp faster_than_light/files/* ~/.local/share/FasterThanLight/
