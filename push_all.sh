@@ -6,3 +6,4 @@ cp ~/.steam/steam/steamapps/common/Knights\ of\ Pen\ and\ Paper/knightspp_Data/d
 # push up to remote
 cd ~/Tools/save-files
 git commit -am "save files commited $(date +%s)"
+git push origin master
