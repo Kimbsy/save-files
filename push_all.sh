@@ -8,5 +8,6 @@ cp ~/.local/share/FasterThanLight/* faster_than_light/
 
 # push up to remote
 cd ~/Tools/save-files
+git add -A
 git commit -am "save files commited: $(date +%s)"
 git push origin master
