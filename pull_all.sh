@@ -8,4 +8,4 @@ git pull
 cp knights_of_pen_and_paper/data.kopp ~/.steam/steam/steamapps/common/Knights\ of\ Pen\ and\ Paper/knightspp_Data/data.kopp
 
 # update FTL
-cp faster_than_light/* ~/.local/share/fasterthanlight/
+cp faster_than_light/* ~/.local/share/FasterThanLight/
