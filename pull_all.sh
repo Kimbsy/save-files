@@ -13,3 +13,7 @@ test -r ~/.steam/steam/steamapps && cp knights_of_pen_and_paper/files/data.kopp 
 # update FTL
 echo "updating FTL"
 cp faster_than_light/files/* ~/.local/share/FasterThanLight/
+
+# update Intrusion 2
+echo "updating Intrusion 2"
+cp intrusion_2/files/* ~/.local/share/intrusion2/intrusion2/

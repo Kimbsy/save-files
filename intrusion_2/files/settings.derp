@@ -1,0 +1,13 @@
+<save_data>
+<save id="rnd3" type="number" value="39290"/>
+<save id="effects_volume" type="number" value="0.25"/>
+<save id="fast_upscaling" type="bool" value="true"/>
+<save id="music_volume" type="number" value="0.2"/>
+<save id="resolution" type="string" value="default"/>
+<save id="fullscreen" type="bool" value="true"/>
+<save id="detailed_sky" type="bool" value="true"/>
+<save id="language" type="string" value="english"/>
+<save id="exist" type="bool" value="true"/>
+<save id="rnd1" type="number" value="94279"/>
+<save id="rnd2" type="number" value="41765"/>
+</save_data>
