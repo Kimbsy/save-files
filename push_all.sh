@@ -8,11 +8,11 @@ test -r ~/.steam/steam/steamapps && cp ~/.steam/steam/steamapps/common/Knights\ 
 
 # update FTL
 echo "updating FTL"
-cp ~/.local/share/FasterThanLight/* faster_than_light/files/
+cp ~/.local/share/FasterThanLight/* ~/Tools/save-files/faster_than_light/files/
 
 #update intrusion 2
 echo "updating Intrusion 2"
-cp ~/.local/share/intrusion2/intrusion2/* intrusion_2/files/
+cp ~/.local/share/intrusion2/intrusion2/* ~/Tools/save-files/intrusion_2/files/
 
 # push up to remote
 cd ~/Tools/save-files
